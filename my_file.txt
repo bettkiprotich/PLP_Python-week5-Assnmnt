@@ -1,0 +1,6 @@
+Hello, this is line 1.
+This is line 2 with a number: 42.
+Line 3: Python file handling is interesting!
+Appending line 1: Goodbye!
+Appending line 2: Numbers can also be fun: 100.
+Appending line 3: Let's learn more about file handling.
